@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.container {
+  background-color: rgb(173, 219, 238);
+  font-family: roboto;
+  text-align: center;
+  height: 100vh;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.btn {
+  background-color: blue;
+  height: 35px;
+  width: 95px;
+  color: white;
+  text-align: center;
+  align-self: center;
+  border-radius: 8px;
+  border-width: 0px;
+}
+
+.counterValue{
+    color: purple;
+}
+.heading {
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 20px;
+}
